@@ -4,12 +4,13 @@ import ToDoList from "./Components/ToDoList";
 
 import './App.css';
 
+
 class App extends React.Component {
   render() {
     return (
       <div>
-        <ToDoForm />
         <ToDoList />
+        <ToDoForm />
       </div>
     );
   }
