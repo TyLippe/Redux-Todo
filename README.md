@@ -23,7 +23,7 @@ Topics:
 * Use the movies project as a reference.
 * The general flow of steps will be to create your store, create your reducers, create your containers, and then create the action creators.
 * When you add a new item to the todo array an action containing the new todo object will be dispatched through all of the reducers.
-* To display the todo list you will create a container that receives the `todos` array as a prop and then uses `map` to display it as an unordered list.
+* To display the todo list you will create a container that rcdeceives the `todos` array as a prop and then uses `map` to display it as an unordered list.
 
 ### State Tree
 
